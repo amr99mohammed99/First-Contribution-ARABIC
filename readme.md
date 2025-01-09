@@ -2310,5 +2310,43 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!--// Amr Khalil Mohammed //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Amr99Mohammed99">
+                <img src="https://avatars.githubusercontent.com/u/141763390?v=4" width="50">
+                <br>
+                <h2>Amr Khalil Mohammed</h2>
+            </a>
+            <br>
+            <table>
+                <tr>
+                                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Amr99Mohammed99">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/Amr99Mohammed99">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://x.com/Amr99Mohammed99">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <!--// Amr Khalil Mohammed //-->
 
 </table>
